@@ -1,0 +1,6 @@
+{
+  "name": "Del daño al destino celular",
+  "description": "Laboratorio conceptual de reparación del ADN, decisiones celulares y características del cáncer (Hanahan 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
